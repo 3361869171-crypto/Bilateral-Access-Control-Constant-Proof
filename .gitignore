@@ -1,0 +1,31 @@
+# Compiled Object files
+*.o
+*.obj
+*.d
+
+# Executables and libraries
+*.exe
+*.out
+*.a
+*.so
+system_mine/main
+system_compare/cro-abme-bn254/cro-abme-bn254
+
+# Local drafts and tests (if any)
+docs/
+tests/
+
+# Logs
+*.log
+
+# Third-party dependencies
+MIRACL-master/
+miracl_build/
+miracl_output/
+baselines/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
